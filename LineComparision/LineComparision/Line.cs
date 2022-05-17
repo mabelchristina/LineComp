@@ -6,5 +6,10 @@ namespace LineComparision
 {
     class Line
     {
+        public void lineLen()
+        {
+            Console.WriteLine("hvfneru");
+        }
+
     }
 }
